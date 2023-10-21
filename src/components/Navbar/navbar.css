@@ -1,0 +1,19 @@
+.custom-navbar {
+    background-color:white;
+    width: 100%;
+  }
+  .custom-navbar .nav-link,
+  .custom-navbar .dropdown-item {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Cairo', sans-serif; 
+  }
+  
+  .custom-navbar {
+    justify-content: flex-start;
+  }
+  .logo {
+     width:150px;
+     height:70px;
+  }
+ 
